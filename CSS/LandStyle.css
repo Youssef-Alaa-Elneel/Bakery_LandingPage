@@ -21,12 +21,12 @@
 	}
 
 	header{
-		/* position:fixed; */
-			display: flex;
+		position:fixed;
+		display: flex;
 		width: 100%;
-			justify-content: space-around;
-			align-items: center;
-			background-color:rgb(241, 224, 203);
+		justify-content: space-around;
+		align-items: center;
+		background-color:rgb(241, 224, 203);
 		height: 13vh;
 		z-index: 999;
 	}
